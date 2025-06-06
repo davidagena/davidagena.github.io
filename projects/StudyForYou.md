@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: IMG_1059.jpeg
 title: "StudyForYou"
 date: 2025-06-05
 published: true

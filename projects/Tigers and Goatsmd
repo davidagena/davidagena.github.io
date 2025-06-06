@@ -3,7 +3,8 @@ layout: project
 type: project
 image: img/IMG_1059.jpeg
 title: "Tigers and Goats"
-date: 2025-06-05
+# All dates must be yy-mm-dd format!
+date: 2024-01-10
 published: true
 labels:
   - Python

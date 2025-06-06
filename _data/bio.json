@@ -7,34 +7,12 @@
     "phone": "808-754-3192",
     "website": "https://davidagena.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      {
-        "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
@@ -47,7 +25,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["C", "C++", "Java", "Javascript"]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -55,10 +37,36 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2022-08-16",
+      "startDate": "2022-09-01",
       "endDate": "Present",
-      "courses": []
+      "courses": [
+      ]
     }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Campus Center",
+      "position": "Events Manager",
+      "website": "",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "summary": "Work on setting up and cleaning events held in campus center",
+      "highlights": [
+        "Maintain and clean event rooms"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Moanalua Craft Center",
+      "position": "Helper",
+      "startDate": "2016-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Worked concession",
+      "highlights": [
+        "Helped run a successful fair"
+      ]
+    } 
   ],
   "references": [
     {

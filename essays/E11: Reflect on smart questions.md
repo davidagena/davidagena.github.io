@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why \"Smart"\ Questions and \"Not Smart"\ Questions are Worlds Apart"
+title: "Why Smart Questions and Not Smart Questions are Worlds Apart"
 # All dates must be YYYY-MM-DD format!
 date: 2025-06-12
 published: true

@@ -1,26 +1,25 @@
 ---
 layout: essay
 type: essay
-title: "Journey from Javascript to Typescript"
+title: "Why "Smart" Questions and "Not Smart" Questions are Worlds Apart"
 # All dates must be YYYY-MM-DD format!
-date: 2025-06-05
+date: 2025-06-12
 published: true
 labels:
   - Engineering
+  - Technical Essay
+  - "Smart" Questions
 ---
-Javascript  |  Typescript
-Dynamically typed |  Statically Typed
-Errors are found in runtime |  Errors caught during compilation
-For Syntax it's flexible with no type annotations |  Supports all JavaScript syntax, plus type annotations
+## What Constitutes a "Smart" and "Not Smart" Question
+According to Eric Raymond, there are multiple guidelines a question must follow for it to be considered a "smart" question. First, it must have a specific and informative title that reflects the problem directly. Having a vague or non-informative title will be misleading and will complicate things for people who might be willing to help you. Next, at least some research effort must be shown. This means to show that you know what you are talking about and are familiar with what you are trying to accomplish. Providing no context or information on the problem will make it extremely hard for people to understand your situation and what you may need help with. In addition to showing some significant research, you must have a specific question that directly targets what you are having issues with. Providing vague or non-specific questions will only confuse others and will make it hard to pinpoint exactly what you want help with. In the content of the question providing your code and the syntax errors along with any screenshots of relevant material will help with getting help. Having everything relevant to the issue including your code and syntax errors is important for people who are willing to help you to understand the core of the problem. Not including everything important to the situation will only make it harder for people to answer your question accurately. Lastly, being professional with your question. This means no slang or sloppy writing which may drive away people who want to help but are turned away by the unprofessionalism of the question. By following these guidelines, an individual will be able to form a "smart" question that makes it easier to receive help from others and more concise answers that are useful. 
 
-## What is Typescript?
-Typescript is an open-source programming language created by Microsoft. Since Typescript is also a superset of Javascript, any valid form of Javascript also works for Typescript. 
+## Example of a "Smart" Question
+From StackOverflow, I found a post that directly reflects a "smart" question. A user asked ["Way to overcome Excel Vlookup function limit of 256 characters"] (https://stackoverflow.com/questions/13202473/way-to-overcome-excel-vlookup-function-limit-of-256-characters). The title is simple and goes straight to the problem which in this case is help overcoming the function limit of 256 characters on Excel Vlookup. In the body of the post they provide the problem, what they tried, and a specific question. This is not a coding question so a screenshot of the errors and existing code is not needed. Overall this a very short and simple way to ask a "smart" question" that fufills the guidelines of Raymond. The answers provided to this post also provide short answers that help the individual in figuring out how to overcome this situation. Most responses give screenshots of their solutions to the issue along with explaining what is being done along with how their solution solves the problem. Posing "smart" questions brings up like-minded individuals who will in turn provide valuable feedback that will benefit both parties. 
 
-## Experience with Typescript:
-Overall I felt the similarities between Typescript and Javascript so it wasn't too hard getting used to Typescript. Though there were some differences between the two, it didn't take long for me to understand some of the differences and adapt to them. It was kind of enjoyable learning a new language that is closely related to another one so the learning curve wasn't too bad. I would recommend learning Typescript if you have the time, however it would help to have learned Javascript beforehand to make the experience better.
+## Example of a "Not Smart" Question
+Since StackOverflow holds high standards for posting higher-quality questions, I had ChatGPT create one along with fake responses to it. The title of the question ChatGPT created was "Help!!! My code doesn't work" with emojis in the title. This already violates one of the guidelines by providing a title that is vague and non-informative to the situation along with providing no professionalism. In addition to this the body of the question provides little to no context on the situation along with just a screenshot of the code without the output. This makes it hard to come up with a solution and the vagueness of the question makes it difficult to tell what they are trying to accomplish. According to Raymond having a "not smart" question drives away people who are willing to provide helpful feedback and more that will respond similarly to the content of the question, vague. Some examples of these unhelpful responses include those that tell the person who made the post to just google it or people who provide sarcastic responses. Creating questions that are unprofessional and vague will drive away people who want to help others making it hard to get a helpful answer. 
 
-## WODs:
-WODs or "Workouts of the Day", have been one of the more helpful exercises for developing my coding skills. Personally, I feel that doing the work rather than seeing it be done is the best way for me to learn so WODs have been great at helping me do so. In addition to this, the videos at the end that show the process help with roadblocks and solidifying my knowledge on the topic being covered via WOD. Overall, I enjoy the short practice we get in the form of WODs and look forward to doing more.
+## Summary
+From this assignment, I learned about Eric Raymond's criteria for ["How to ask questions the smart way"] (http://www.catb.org/esr/faqs/smart-questions.html). By, following his guidelines it helps with constructing a "smart" question that allows for more helpful responses that will benefit you more than questions that don't satisfy the criteria which may drive away people that may have the answer to your question. Understanding the differences between "smart" and "not smart" questions are important for smart software engineers to communicate effectively with each other. Communication in the workforce is key to efficiency and being on the same page for different situations. By asking "smart" questions software engineers work efficiently with each other and develop a healthy work environment. The questions found for this assignment were pulled from [StackOverflow] (https://stackoverflow.com/questions?tab=Bounties).
 
-## AI Reflection:
-I used ChatGPT to help with organizing my ideas but other than that the ideas, reflections, and writing were done on my own.
+

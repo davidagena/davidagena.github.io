@@ -20,5 +20,5 @@ First off, Bootstrap 5 is one of the many examples of UI Frameworks that a devel
 ## Why use UI Frameworks?:
 Though UI Frameworks are difficult to learn and apply to your work at first, there are various benefits to putting in the effort to learning them. Some benefits include more speed and efficiency, less manual coding, a consistent coding style, along with lots of other benefits. Of course, the learning curve when coding in raw HTML or CSS is very low in comparison to implementing UI Frameworks, it requires far more time and effort in comparison. A huge part of learning how to use UI Frameworks is being faster and more efficient in your work. Instead of needing to manually code line after line for everything, implementing UI Frameworks will net the same if not better results, along with saving lots of time on top of that. Overall, both ways have their pros and cons but at the end of the day it is undeniable that putting in the effort to learn UI Frameworks is time well spent in the long run. 
 
-![Example of a website using UI Framework](https://popartstudio.nl/)
+[Example of a website using UI Framework](https://popartstudio.nl/)
 
